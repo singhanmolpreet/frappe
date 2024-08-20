@@ -1,10 +1,16 @@
 # Library Management System 
 
-```time fm create anmol.com```
+```
+time fm create anmol.com
+```
 
-```fm start anmol.com ```
+```
+fm start anmol.com
+```
 
-```su```
+```
+su
+```
 
 Password: 
 
